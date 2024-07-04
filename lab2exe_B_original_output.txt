@@ -1,0 +1,4 @@
+sum of integers in array a is: 100
+sum of integers in array b is: 1000
+sum of integers in array c is: -800
+sum of integers in array d is: 280
